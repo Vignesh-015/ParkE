@@ -11,7 +11,7 @@ export function Header() {
         <div className="flex justify-between items-center py-4">
           <div className="flex items-center">
             <h1 className="text-2xl font-bold bg-gradient-to-r from-cyan-600 to-cyan-400 bg-clip-text text-transparent">
-              SmartPark
+              ParkE Pro
             </h1>
           </div>
           
